@@ -27,3 +27,4 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 If you would like to learn about the process of making this project, I am going to upload a video these days explaining step by step the code, please checkout my youtube channel, thanks guys !
 
 -   [Video explanation](https://www.youtube.com/channel/UCrEqOvzltRtuCPgURpdfyXw?view_as=subscriber).
+"# PARCIAL3" 
