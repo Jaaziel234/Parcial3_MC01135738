@@ -1,0 +1,1 @@
+eliminado ctr z
